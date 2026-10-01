@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aivora Chart AI</string>
+    <string name="tab_markets">Markets</string>
+    <string name="tab_analysis">Live AI</string>
+    <string name="tab_screenshot">Screenshot AI</string>
+    <string name="tab_debug">Diagnostics</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="retry">Retry</string>
+    <string name="online">ONLINE</string>
+    <string name="offline">OFFLINE</string>
+    <string name="live_data">LIVE DATA</string>
+    <string name="demo_data">DEMO DATA</string>
+</resources>

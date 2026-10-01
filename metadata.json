@@ -1,0 +1,6 @@
+{
+  "name": "Aivora Chart AI",
+  "description": "Cryptocurrency market technical analysis, live prices, real-time WebSocket feeds, local screenshot chart understanding, and network diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
